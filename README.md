@@ -14,4 +14,4 @@ This project converts temperatures between Celsius, Fahrenheit and Kelvin scales
 Python
 
 ## Author
-Your Name
+Chaparapu Sravanthi
